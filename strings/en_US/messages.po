@@ -3358,6 +3358,12 @@ msgstr "A ticket for your child for %1$s has been cancelled"
 msgid "A ticket request has been made for %1$s"
 msgstr "A ticket request has been made for %1$s"
 
+msgid "Your ticket status for %1$s has been changed to pending"
+msgstr "Your ticket status for %1$s has been changed to pending"
+
+msgid "Your childs ticket status for %1$s has been changed to pending"
+msgstr "Your childs ticket status for %1$s has been changed to pending"
+
 msgid "This is a notification to let you know that your request for a ticket for the below event has been received. Once your request has been approved you will receive your ticket confirmation by email."
 msgstr "This is a notification to let you know that your request for a ticket for the below event has been received. Once your request has been approved you will receive your ticket confirmation by email."
 
