@@ -8,7 +8,7 @@
   <h3>Order Summary</h3>
   <p> - Date: <%= applicationDate %></p>
   <p> - Session: <%= sessionName %></p>
-  <table>
+  <table class="contentTable">
     <thead>
       <th>Name</th>
       <th>Type</th>
@@ -30,6 +30,8 @@
   <h3>About this event</h3>
   <p> - Event date: <%= eventDate %></p>
   <p> - Event address: <%= event.address %></p>
+
+  <a href="<%= applicationsLinkBase + '/' + dojoId + '/events/' + eventId + '/applications' %>">View Applications</a>
 
   <p>Best wishes,</br>
   The CoderDojo Foundation Team</p>
