@@ -3390,3 +3390,147 @@ msgid "A ticket for your child %1s for the below event has been cancelled."
 msgid_plural "Tickets for your children %1s for the below event have been cancelled."
 msgstr[0] "A ticket for your child %1s for the below event has been cancelled."
 msgstr[1] "Tickets for your children %1s for the below event have been cancelled."
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "My Profile"
+msgstr "My Profile"
+
+msgid "E-learning"
+msgstr "E-learning"
+
+msgid "Manage Dojos"
+msgstr "Manage Dojos"
+
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "My Profile"
+msgstr "My Profile"
+
+msgid "E-learning"
+msgstr "E-learning"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Find a Dojo to attend"
+msgstr "Find a Dojo to attend"
+
+msgid "Learn technology in an informal, creative and social environment. Find a dojo near you."
+msgstr "Learn technology in an informal, creative and social environment. Find a dojo near you."
+
+msgid "Enter your city or locality"
+msgstr "Enter your city or locality"
+
+msgid "Search for Dojos"
+msgstr "Search for Dojos"
+
+msgid "Detect my location"
+msgstr "Detect my location"
+
+msgid "Account created"
+msgstr "Account created"
+
+msgid "Your booking is completed successfully"
+msgstr "Your booking is completed successfully"
+
+msgid "You must accept the terms and conditions before proceeding."
+msgstr "You must accept the terms and conditions before proceeding."
+
+msgid "You must consent to the use of your data before proceeding."
+msgstr "You must consent to the use of your data before proceeding."
+
+msgid "Last name"
+msgstr "Last name"
+
+msgid "Phone number"
+msgstr "Phone number"
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "Email address (optional)"
+msgstr "Email address (optional)"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Male"
+msgstr "Male"
+
+msgid "Not Listed"
+msgstr "Not Listed"
+
+msgid "Prefer not to answer"
+msgstr "Prefer not to answer"
+
+msgid "Book Event"
+msgstr "Book Event"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "You will need your parent to carry out the registration."
+msgstr "You will need your parent to carry out the registration."
+
+msgid "Please verify your age"
+msgstr "Please verify your age"
+
+msgid "Enter your Date of Birth"
+msgstr "Enter your Date of Birth"
+
+msgid "Upcoming Events"
+msgstr "Upcoming Events"
+
+msgid "Sessions"
+msgstr "Sessions"
+
+msgid "See Details and Book"
+msgstr "See Details and Book"
+
+msgid "Select Event Tickets"
+msgstr "Select Event Tickets"
+
+msgid "Proceed"
+msgstr "Proceed"
+
+msgid "Showing {total} Dojos"
+msgstr "Showing {total} Dojos"
+
+msgid "I agree with {openLinkTag}Terms & Conditions{closingLinkTag}"
+msgstr "I agree with {openLinkTag}Terms & Conditions{closingLinkTag}"
+
+msgid "I consent to the use of my data ({openLinkTag}Data policy{closingLinkTag})"
+msgstr "I consent to the use of my data ({openLinkTag}Data policy{closingLinkTag})"
+
+msgid "Unfortunately there are no dojos in your area at the moment. Please search again or use the map to find the closest one."
+msgstr "Unfortunately there are no dojos in your area at the moment. Please search again or use the map to find the closest one."
+
+msgid "No Upcoming Events"
+msgstr "No Upcoming Events"
+
+msgid "There are no upcoming events planned for this Dojo. Please email {email} if you have any questions."
+msgstr "There are no upcoming events planned for this Dojo. Please email {email} if you have any questions."
+
+msgid "Show Map"
+msgstr "Show Map"
+
+msgid "Hide Map"
+msgstr "Hide Map"
+
+msgid "Try modifying your search location, or zoom out on the {openLink}map{closeLink} to find the nearest Dojos."
+msgstr "Try modifying your search location, or zoom out on the {openLink}map{closeLink} to find the nearest Dojos."
+
+msgid "Contact Dojo"
+msgstr "Contact Dojo"
+
+msgid "FULL"
+msgstr "FULL"
