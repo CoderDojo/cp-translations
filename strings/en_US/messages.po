@@ -1287,9 +1287,6 @@ msgstr "Newspaper/Magazine"
 msgid "Radio"
 msgstr "Radio"
 
-msgid "Family/Friends"
-msgstr "Family/Friends"
-
 msgid "Error loading profile"
 msgstr "Error loading profile:"
 
@@ -1790,9 +1787,6 @@ msgstr "An error has occured verifying the charter agreement."
 
 msgid "error.general"
 msgstr "There was an error on this page. Our technical staff have been notified"
-
-msgid "Gather your Team"
-msgstr "Gather your Team"
 
 msgid "Find a Venue"
 msgstr "Find a Venue"
@@ -3405,3 +3399,522 @@ msgid "A ticket for your child %1s for the below event has been cancelled."
 msgid_plural "Tickets for your children %1s for the below event have been cancelled."
 msgstr[0] "A ticket for your child %1s for the below event has been cancelled."
 msgstr[1] "Tickets for your children %1s for the below event have been cancelled."
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "My Profile"
+msgstr "My Profile"
+
+msgid "E-learning"
+msgstr "E-learning"
+
+msgid "Manage Dojos"
+msgstr "Manage Dojos"
+
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+msgid "My Account"
+msgstr "My Account"
+
+msgid "My Profile"
+msgstr "My Profile"
+
+msgid "E-learning"
+msgstr "E-learning"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Find a Dojo to attend"
+msgstr "Find a Dojo to attend"
+
+msgid "Learn technology in an informal, creative and social environment. Find a dojo near you."
+msgstr "Learn technology in an informal, creative and social environment. Find a dojo near you."
+
+msgid "Enter your city or locality"
+msgstr "Enter your city or locality"
+
+msgid "Search for Dojos"
+msgstr "Search for Dojos"
+
+msgid "Detect my location"
+msgstr "Detect my location"
+
+msgid "CoderDojo Account has been created"
+msgstr "CoderDojo Account has been created"
+
+msgid "Booking Complete"
+msgstr "Booking Complete"
+
+msgid "You must accept the terms and conditions before proceeding."
+msgstr "You must accept the terms and conditions before proceeding."
+
+msgid "You must consent to the use of your data before proceeding."
+msgstr "You must consent to the use of your data before proceeding."
+
+msgid "Last name"
+msgstr "Last name"
+
+msgid "Phone number"
+msgstr "Phone number"
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "Email address (optional)"
+msgstr "Email address (optional)"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Male"
+msgstr "Male"
+
+msgid "Not Listed"
+msgstr "Not Listed"
+
+msgid "Prefer not to answer"
+msgstr "Prefer not to answer"
+
+msgid "Book Event"
+msgstr "Book Event"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "You will need your parent to carry out the registration."
+msgstr "You will need your parent to carry out the registration."
+
+msgid "Please verify your age"
+msgstr "Please verify your age"
+
+msgid "Enter your Date of Birth"
+msgstr "Enter your Date of Birth"
+
+msgid "Upcoming Events"
+msgstr "Upcoming Events"
+
+msgid "Sessions"
+msgstr "Sessions"
+
+msgid "See Details and Book"
+msgstr "See Details and Book"
+
+msgid "Select Event Tickets"
+msgstr "Select Event Tickets"
+
+msgid "Proceed"
+msgstr "Proceed"
+
+msgid "Showing {total} Dojos"
+msgstr "Showing {total} Dojos"
+
+msgid "I agree with {openLinkTag}Terms & Conditions{closingLinkTag}"
+msgstr "I agree with {openLinkTag}Terms & Conditions{closingLinkTag}"
+
+msgid "I consent to the use of my data ({openLinkTag}Data policy{closingLinkTag})"
+msgstr "I consent to the use of my data ({openLinkTag}Data policy{closingLinkTag})"
+
+msgid "Unfortunately there are no dojos in your area at the moment. Please search again or use the map to find the closest one."
+msgstr "Unfortunately there are no dojos in your area at the moment. Please search again or use the map to find the closest one."
+
+msgid "No Upcoming Events"
+msgstr "No Upcoming Events"
+
+msgid "There are no upcoming events planned for this Dojo. Please email {email} if you have any questions."
+msgstr "There are no upcoming events planned for this Dojo. Please email {email} if you have any questions."
+
+msgid "Show Map"
+msgstr "Show Map"
+
+msgid "Hide Map"
+msgstr "Hide Map"
+
+msgid "Try modifying your search location, or zoom out on the {openLink}map{closeLink} to find the nearest Dojos."
+msgstr "Try modifying your search location, or zoom out on the {openLink}map{closeLink} to find the nearest Dojos."
+
+msgid "Contact Dojo"
+msgstr "Contact Dojo"
+
+msgid "Full"
+msgstr "Full"
+
+msgid "A confirmation email has been sent to {email}"
+msgstr "A confirmation email has been sent to {email}"
+
+msgid "Event hosted by {dojoName}"
+msgstr "Event hosted by {dojoName}"
+
+msgid "Attendees"
+msgstr "Attendees"
+
+msgid "You are now subscribed to {dojoName} dojo"
+msgstr "You are now subscribed to {dojoName} dojo"
+
+msgid "You can log in and find events hosted by this dojo in {openLink}My Dojos{closeLink}"
+msgstr "You can log in and find events hosted by this dojo in {openLink}My Dojos{closeLink}"
+
+msgid "You will be notified about future events hosted by this dojo"
+msgstr "You will be notified about future events hosted by this dojo"
+
+msgid "Event Details"
+msgstr "Event Details"
+
+msgid "I want to join the CoderDojo Mailing List"
+msgstr "I want to join the CoderDojo Mailing List"
+
+msgid "Created on {{ date }}"
+msgstr "Created on {{ date }}"
+
+msgid "Last updated on {{ date }}"
+msgstr "Last updated on {{ date }}"
+
+msgid "Manage Users"
+msgstr "Manage Users"
+
+msgid "Manage Events"
+msgstr "Manage Events"
+
+msgid "Please answer the following questions correctly so that our community team can verify all new Champions are real people."
+msgstr "Please answer the following questions correctly so that our community team can verify all new Champions are real people."
+
+msgid "Congratulations on registering as a CoderDojo Champion!"
+msgstr "Congratulations on registering as a CoderDojo Champion!"
+
+msgid "A Champion is an individual who volunteers to take charge of setting up, running and maintaining a Dojo."
+msgstr "A Champion is an individual who volunteers to take charge of setting up, running and maintaining a Dojo."
+
+msgid "As a Champion you care about your community enough to take the initiative to start a Dojo and give youth the opportunity to learn to code and be creative with technology!"
+msgstr "As a Champion you care about your community enough to take the initiative to start a Dojo and give youth the opportunity to learn to code and be creative with technology!"
+
+msgid "First name"
+msgstr "First name"
+
+msgid "Last name"
+msgid "Last name"
+
+msgid "Personal/Work email address"
+msgstr "Personal/Work email address"
+
+msgid "Date of birth"
+msgstr "Date of birth"
+
+msgid "Parent Email address"
+msgstr "Parent Email address"
+
+msgid "Parent Name"
+msgstr "Parent Name"
+
+msgid "Home address"
+msgstr "Home address"
+
+msgid "Phone number"
+msgstr "Phone number"
+
+msgid "Telephone number is not valid"
+msgstr "Telephone number is not valid"
+
+msgid "(optional)"
+msgid "(optional)"
+
+msgid "Tell us your skills"
+msgstr "Tell us your skills"
+
+msgid "To become a Champion you do not need to have technical skills as you can find other volunteers with these skills or use our awesome learning content."
+msgstr "To become a Champion you do not need to have technical skills as you can find other volunteers with these skills or use our awesome learning content."
+
+msgid "Tell us how confident you feel in the following areas;"
+msgstr "Tell us how confident you feel in the following areas;"
+
+msgid "How confident are you in mentoring young people ?"
+msgstr "How confident are you in mentoring young people ?"
+
+msgid "How confident are you in your coding and technology skills ?"
+msgstr "How confident are you in your coding and technology skills ?"
+
+msgid "Not very"
+msgstr "Not very"
+
+msgid "Slightly"
+msgstr "Slightly"
+
+msgid "Very"
+msgstr "Very"
+
+msgid "How did you hear about CoderDojo?"
+msgstr "How did you hear about CoderDojo?"
+
+msgid "Media (newspaper/radio)"
+msgstr "Media (newspaper/radio)"
+
+msgid "This information will be used to populate your Dojo's public profile page"
+msgstr "This information will be used to populate your Dojo's public profile page"
+
+msgid "Name your Dojo"
+msgstr "Name your Dojo"
+
+msgid "Kings Cross, London @ Microsoft"
+msgstr "Kings Cross, London @ Microsoft"
+
+msgid "Please avoid using the words “CoderDojo” or “Dojo” when naming your Dojo."
+msgstr "Please avoid using the words “CoderDojo” or “Dojo” when naming your Dojo."
+
+msgid "The Dojo Name should be formatted as [City/Town/State]@ [Sponsor/Venue Name] or in a large city [Neighbourhood/Area], [City] @ [Sponsor/Venue Name]"
+msgstr "The Dojo Name should be formatted as [City/Town/State]@ [Sponsor/Venue Name] or in a large city [Neighbourhood/Area], [City] @ [Sponsor/Venue Name]"
+
+msgid "When will your dojo run?"
+msgstr "When will your dojo run?"
+
+msgid "Help people searching for Dojos to find one that fits their schedule"
+msgstr "Help people searching for Dojos to find one that fits their schedule"
+
+msgid "Select a day"
+msgstr "Select a day"
+
+msgid "How often will your Dojo run?"
+msgstr "How often will your Dojo run?"
+
+msgid "Each Dojo can choose how often they run whether it be weekly, bi-weekly, or monthly."
+msgstr "Each Dojo can choose how often they run whether it be weekly, bi-weekly, or monthly."
+
+msgid "When will your first session be?"
+msgstr "When will your first session be?"
+
+msgid "Provide your Dojo email address"
+msgstr "Provide your Dojo email address"
+
+msgid "You will need a specific email for your Dojo that can be shared with your team."
+msgstr "You will need a specific email for your Dojo that can be shared with your team."
+
+msgid "You can set up your own Dojo email address (e.g.docklandsdojo@gmail.com) or we can create a coderdojo.com email up on your behalf."
+msgstr "You can set up your own Dojo email address (e.g.docklandsdojo@gmail.com) or we can create a coderdojo.com email up on your behalf."
+
+msgid "I have an email account setup for my Dojo"
+msgstr "I have an email account setup for my Dojo"
+
+msgid "I want a coderdojo.com email set up"
+msgstr "I want a coderdojo.com email set up"
+
+msgid "It must be different from your personal email."
+msgstr "It must be different from your personal email."
+
+msgid "You'll receive the credentials once the dojo has been verified"
+msgstr "You'll receive the credentials once the dojo has been verified"
+
+msgid "Once you have your email set up we advise you set up an auto-responder to all emails with more information about your Dojo so that parents know you are still active. Otherwise you can set up an auto-forwarder to your personal email so you don’t miss anything coming into your Dojo email."
+msgstr "Once you have your email set up we advise you set up an auto-responder to all emails with more information about your Dojo so that parents know you are still active. Otherwise you can set up an auto-forwarder to your personal email so you don’t miss anything coming into your Dojo email."
+
+msgid "Website (optional)"
+msgstr "Website (optional)"
+
+msgid "KingCrossDojo"
+msgstr "KingCrossDojo"
+
+msgid "Bi-weekly/Fortnightly/Every two weeks"
+msgstr "Bi-weekly/Fortnightly/Every two weeks"
+
+msgid "Monthly"
+msgstr "Monthly"
+
+msgid "Second"
+msgid "Second"
+
+msgid "Third"
+msgid "Third"
+
+msgid "Fourth"
+msgid "Fourth"
+
+msgid "The venue is where the Dojo takes place."
+msgstr "The venue is where the Dojo takes place."
+
+msgid "It should be a safe, accessible and fun space."
+msgstr "It should be a safe, accessible and fun space."
+
+msgid "Dojos cannot be held in a private residence or in venues inappropriate for young people; for example betting offices, bars etc."
+msgstr "Dojos cannot be held in a private residence or in venues inappropriate for young people; for example betting offices, bars etc."
+
+msgid "Do you have a venue?"
+msgstr "Do you have a venue?"
+
+msgid "I have a venue"
+msgstr "I have a venue"
+
+msgid "I'm looking for a venue"
+msgstr "I'm looking for a venue"
+
+msgid "Where is your venue located?"
+msgstr "Where is your venue located?"
+
+msgid "Please provide detailed information below. This location should appear on Google maps."
+msgstr "Please provide detailed information below. This location should appear on Google maps."
+
+msgid "What type of venue will you run a Dojo in?"
+msgstr "What type of venue will you run a Dojo in?"
+
+msgid "Will your dojo be private?"
+msgstr "Will your dojo be private?"
+
+msgid "Private Dojos are ones which are only open to specific people within an organisation. e.g. Dojo hosted in a school and only open to pupils of the school."
+msgstr "Private Dojos are ones which are only open to specific people within an organisation. e.g. Dojo hosted in a school and only open to pupils of the school."
+
+msgid "Other (please detail)"
+msgstr "Other (please detail)"
+
+msgid "If your venue has a corporate host what is the name of the company?"
+msgstr "If your venue has a corporate host what is the name of the company?"
+
+msgid "Download a template letter to send to potential venues here"
+msgstr "Download a template letter to send to potential venues here"
+
+msgid "Corporate Office"
+msgstr "Corporate Office"
+
+msgid "Community Centre or public civic space"
+msgstr "Community Centre or public civic space"
+
+msgid "Co-working space or tech hub"
+msgstr "Co-working space or tech hub"
+
+msgid "Library"
+msgstr "Library"
+
+msgid "Maker Space"
+msgstr "Maker Space"
+
+msgid "School"
+msgstr "School"
+
+msgid "University"
+msgstr "University"
+
+msgid "No problem! You can continue filling out the rest of the application, and come back to this when you’ve found a venue."
+msgstr "No problem! You can continue filling out the rest of the application, and come back to this when you’ve found a venue."
+
+msgid "A CoderDojo Mentor is someone who guides Dojo attendees (Ninjas) and facilitate their learning."
+msgstr "A CoderDojo Mentor is someone who guides Dojo attendees (Ninjas) and facilitate their learning."
+
+msgid "Volunteers can also help out by setting up the Dojo, checking in attendees, managing ticketing or social media, etc."
+msgstr "Volunteers can also help out by setting up the Dojo, checking in attendees, managing ticketing or social media, etc."
+
+msgid "You can learn more about Mentors and Volunteers at Dojos in this short <a target=\"_blank\" href=\"/dashboard/profile/lms\">e-learning course.</a>"
+msgstr "You can learn more about Mentors and Volunteers at Dojos in this short <a target=\"_blank\" href=\"/dashboard/profile/lms\">e-learning course.</a>"
+
+msgid "Dojo must ensure all volunteers are vetted and approved in compliance with local child safeguarding legislation."
+msgstr "Dojo must ensure all volunteers are vetted and approved in compliance with local child safeguarding legislation."
+
+msgid "You can learn more about global safeguarding requirements<a target=\"_blank\" href=\"http://kata.coderdojo.com/wiki/Child_Protection_Global\"> here </a> or by completing our <a target=\"_blank\" href=\"/dashboard/profile/lms\">global safeguarding e-learning course</a>"
+msgstr "You can learn more about global safeguarding requirements<a target=\"_blank\" href=\"http://kata.coderdojo.com/wiki/Child_Protection_Global\"> here </a> or by completing our <a target=\"_blank\" href=\"/dashboard/profile/lms\">global safeguarding e-learning course</a>"
+
+msgid "I have volunteers to help run my Dojo."
+msgstr "I have volunteers to help run my Dojo."
+
+msgid "I intend to run the Dojo by myself."
+msgstr "I intend to run the Dojo by myself."
+
+msgid "Let us know where you found mentors for your Dojo."
+msgstr "Let us know where you found mentors for your Dojo."
+
+msgid "It’s ok to run the Dojo by yourself, but we’d advise trying to find volunteers to help you."
+msgstr "It’s ok to run the Dojo by yourself, but we’d advise trying to find volunteers to help you."
+
+msgid "Your Dojo will grow and it’s always good to have extra hands."
+msgstr "Your Dojo will grow and it’s always good to have extra hands."
+
+msgid "You can find more tips on finding volunteers <a target=\"_blank\" href=\"https://hwf.zendesk.com/hc/en-us/articles/115003582283\">here.</a>"
+msgid "You can find more tips on finding volunteers <a target=\"_blank\" href=\"https://hwf.zendesk.com/hc/en-us/articles/115003582283\">here.</a>"
+
+msgid "Youth/community workers"
+msgstr "Youth/community workers"
+
+msgid "Primary or secondary teachers"
+msgstr "Primary or secondary teachers"
+
+msgid "IT professionals"
+msgstr "IT professionals"
+
+msgid "3rd level education students"
+msgstr "3rd level education students"
+
+msgid "Staff of venue"
+msgstr "Staff of venue"
+
+msgid "Youth Mentors (under 18)"
+msgstr "Youth Mentors (under 18)"
+
+msgid "Parents of attendees"
+msgstr "Parents of attendees"
+
+msgid "All global Dojos follow a common ethos and principles, such as always being free for children, and encouraging them to work together."
+msgstr "All global Dojos follow a common ethos and principles, such as always being free for children, and encouraging them to work together."
+
+msgid "All of these principles are  documented in the CoderDojo Charter."
+msgstr "All of these principles are  documented in the CoderDojo Charter."
+
+msgid "To become a verified Dojo you must agree to follow all principles in the CoderDojo Charter."
+msgstr "To become a verified Dojo you must agree to follow all principles in the CoderDojo Charter."
+
+msgid "It’s important that, as part of the CoderDojo community, you and your volunteers understand the CoderDojo Ethos."
+msgstr "It’s important that, as part of the CoderDojo community, you and your volunteers understand the CoderDojo Ethos."
+
+msgid "To make it easier to understand and implement in your Dojo we have created a short E-Learning module <a target=\"_blank\" href=\"/dashboard/profile/lms\">which you can find here.</a>"
+msgstr "To make it easier to understand and implement in your Dojo we have created a short E-Learning module <a target=\"_blank\" href=\"/dashboard/profile/lms\">which you can find here.</a>"
+
+msgid "You should encourage all volunteers to take the CoderDojo E-Learning modules."
+msgstr "You should encourage all volunteers to take the CoderDojo E-Learning modules."
+
+msgid "Venue Details"
+msgstr "Venue Details"
+
+msgid "Sign the Charter"
+msgstr "Sign the Charter"
+
+msgid "Review your application"
+msgstr "Review your application"
+
+msgid "Congratulations! Your Dojo application is being reviewed by a member of the CoderDojo Foundation team."
+msgstr "Congratulations! Your Dojo application is being reviewed by a member of the CoderDojo Foundation team."
+
+msgid "We will will respond to you within 48 hours, so hang tight while we check the information you have submitted."
+msgstr "We will will respond to you within 48 hours, so hang tight while we check the information you have submitted."
+
+msgid "Something went wrong while submitting your application, please contact support"
+msgstr "Something went wrong while submitting your application, please contact support"
+
+msgid "Prepare yourself"
+msgstr "Prepare yourself"
+
+msgid "While waiting for your verification, familiarise yourself with our content!"
+msgstr "While waiting for your verification, familiarise yourself with our content!"
+
+msgid "You didn't finish your application"
+msgstr "You didn't finish your application"
+
+msgid "Contact us if you have a question"
+msgstr "Contact us if you have a question"
+
+msgid "Last updated on {{ date }}"
+msgstr "Last updated on {{ date }}"
+
+msgsid "Started on {{ date }}"
+msgstr "Started on {{ date }}"
+
+msgid "Expect a 2 day response time"
+msgstr "Expect a 2 day response time"
+
+msgid "No response yet?"
+msgstr "No response yet?"
+
+msgid "Click here to contact us"
+msgstr "Click here to contact us"
+
+msgid "Edit your application"
+msgstr "Edit your application"
+
+msgid "Continue your application"
+msgstr "Continue your application"
