@@ -3939,3 +3939,9 @@ msgstr "This is a recurring event"
 
 msgid "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, from {formattedFirstDate} to {formattedLastDate}"
 msgstr "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, from {formattedFirstDate} to {formattedLastDate}"
+
+msgid "{total} Dojos found near {query}"
+msgstr "{total} Dojos found near {query}"
+
+msgid "{total} Dojos found"
+msgstr "{total} Dojos found"
