@@ -3963,3 +3963,7 @@ msgstr "The Champion handles every aspect of running the Dojo - from handing log
 
 msgid "Volunteer as Champion"
 msgstr "Volunteer as Champion"
+
+msgid "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
+msgstr "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
+
