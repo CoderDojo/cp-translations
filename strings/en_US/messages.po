@@ -3967,3 +3967,8 @@ msgstr "Volunteer as Champion"
 msgid "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
 msgstr "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
 
+msgid "There are no upcoming events planned for this Dojo. Please join this Dojo for updates or email {email}"
+msgstr "There are no upcoming events planned for this Dojo. Please join this Dojo for updates or email {email}"
+
+msgid "Congratulations, you have now joined the Dojo."
+msgstr "Congratulations, you have now joined the Dojo."
