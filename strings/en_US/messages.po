@@ -4027,6 +4027,7 @@ msgid "Next event on {date}"
 msgstr "Next event on {date}"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "Recent Events"
 msgstr "Recent Events"
 
@@ -4039,6 +4040,8 @@ msgstr "This Dojo had events recently. Join the Dojo to get notified when ticket
 msgid "Please select at least one ticket"
 msgstr "Please select at least one ticket"
 =======
+=======
+>>>>>>> 633ed032ad03005fda0d8ea79d214be9407eed2d
 msgid "Email should be in the format: janedoe@example.com"
 msgstr "Email should be in the format: janedoe@example.com"
 
@@ -4053,4 +4056,7 @@ msgstr "Don't have an account?"
 
 msgid "Register Here"
 msgstr "Register Here"
+<<<<<<< HEAD
 >>>>>>> 633ed03... Add in strings from new login page
+=======
+>>>>>>> 633ed032ad03005fda0d8ea79d214be9407eed2d
