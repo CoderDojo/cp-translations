@@ -4044,8 +4044,8 @@ msgstr "Email should be in the format: janedoe@example.com"
 msgid "Password is required"
 msgstr "Password is required"
 
-msgid "There was a problem logging in:"
-msgstr "There was a problem logging in:"
+msgid "There was a problem logging in: Invalid email or password"
+msgstr "There was a problem logging in: Invalid email or password"
 
 msgid "Don't have an account?"
 msgstr "Don't have an account?"
