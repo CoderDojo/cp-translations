@@ -4025,3 +4025,18 @@ msgstr "The event is fully booked, please wait for the next event or look for ot
 
 msgid "Next event on {date}"
 msgstr "Next event on {date}"
+
+msgid "Email should be in the format: janedoe@example.com"
+msgstr "Email should be in the format: janedoe@example.com"
+
+msgid "Password is required"
+msgstr "Password is required"
+
+msgid "There was a problem logging in:"
+msgstr "There was a problem logging in:"
+
+msgid "Don't have an account?"
+msgstr "Don't have an account?"
+
+msgid "Register Here"
+msgstr "Register Here"
