@@ -4037,3 +4037,27 @@ msgstr "This Dojo had events recently. Join the Dojo to get notified when ticket
 
 msgid "Please select at least one ticket"
 msgstr "Please select at least one ticket"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "Date of Birth is required"
+msgstr "Date of Birth is required"
+
+msgid "Specify Identity"
+msgstr "Specify Identity"
+
+msgid "Identify as..."
+msgstr "Identify as..."
+
+msgid "Gender is required"
+msgstr "Gender is required"
+
+msgid "Why is this required? Click Here To Find Out More"
+msgstr "Why is this required? Click Here To Find Out More"
+
+msgid "We want to provide activities that appeal to people regardless of their gender. To check how well we are succeeding, we'd like to find out whether or not people of different genders are equally likely to take part."
+msgstr "We want to provide activities that appeal to people regardless of their gender. To check how well we are succeeding, we'd like to find out whether or not people of different genders are equally likely to take part."
+
+msgid "Ticket selection is required'"
+msgstr "Ticket selection is required'"
