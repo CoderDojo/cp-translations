@@ -4044,11 +4044,11 @@ msgstr "Email should be in the format: janedoe@example.com"
 msgid "Password is required"
 msgstr "Password is required"
 
-msgid "There was a problem logging in: Invalid email or password"
-msgstr "There was a problem logging in: Invalid email or password"
+msgid "There was a problem logging in: {msg}"
+msgstr "There was a problem logging in: {msg}"
 
 msgid "Don't have an account?"
 msgstr "Don't have an account?"
 
-msgid "Register Here"
-msgstr "Register Here"
+msgid "Register here"
+msgstr "Register here"
