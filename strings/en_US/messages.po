@@ -4056,8 +4056,8 @@ msgstr "Register here"
 msgid "Add another youth ticket"
 msgstr "Add another youth ticket"
 
-msgid "Special Requirements"
-msgstr "Special Requirements"
+msgid "Special requirements"
+msgstr "Special requirements"
 
-msgid "Please type any special requirements you have here (ex. Need wheelchair access)"
-msgstr "Please type any special requirements you have here (ex. Need wheelchair access)"
+msgid "Please type any special requirements you have here (ex. need wheelchair access)"
+msgstr "Please type any special requirements you have here (ex. need wheelchair access)"
