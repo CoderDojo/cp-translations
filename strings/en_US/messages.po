@@ -4056,6 +4056,9 @@ msgstr "Register here"
 msgid "Add another youth ticket"
 msgstr "Add another youth ticket"
 
+msgid "Add special requirements"
+msgstr "Add special requirements"
+
 msgid "Special requirements"
 msgstr "Special requirements"
 
