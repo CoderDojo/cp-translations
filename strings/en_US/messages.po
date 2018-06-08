@@ -4055,3 +4055,6 @@ msgstr "Register here"
 
 msgid "Add another youth ticket"
 msgstr "Add another youth ticket"
+
+msgid "Not attending"
+msgstr "Not attending"
