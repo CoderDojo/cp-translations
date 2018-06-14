@@ -1,4 +1,4 @@
-<% if (approvalrequired) { %>
+<% if (approvalRequired) { %>
 BOOKING REQUEST SENT
 You will receive a confirmation email once the organizer approves your request.
 <% } else { %>
@@ -6,7 +6,7 @@ YOUR BOOKING IS CONFIRMED!
 <% } %>
 
 <%= event.name %>
-EVENT HOSTED BY <%= dojo.name %> [<%= process.env.URL_BASE %>dojos/<%= dojo.id %>]
+EVENT HOSTED BY <%= dojo.name %> [<%= process.env.URL_BASE %>/dojos/<%= dojo.id %>]
 
 EVENT DETAILS
 <%= eventDate %> | <%= eventTime %>
@@ -22,11 +22,11 @@ Open in Google Maps [https://www.google.com/maps/search/?api=1&query=<%= encodeU
 ATTENDEES
 <% for (let i = 0; i < applications.length; i += 1) { %>
 <%= applications[i].name %>
-<%= applications[i].tickettype %> / <%= applications[i].ticketname %>
+<%= applications[i].ticketType %> / <%= applications[i].ticketName %>
 <% } %>
 
 If you are unable to attend this event, please cancel your booking
-[<%= process.env.URL_BASE %>dashboard/tickets].
+[<%= process.env.URL_BASE %>/dashboard/tickets].
 
 QUESTIONS?
 If you have any questions about the event, please contact the Dojo at <%=
