@@ -4241,5 +4241,5 @@ msgstr "Youth tickets are for attendees 17 years or younger. No ticket is requir
 msgid "Youth ticket"
 msgstr "Youth ticket"
 
-msgid "There are no {userType} tickets available for this event. Please contact your dojo for more information."
-msgstr "There are no {userType} tickets available for this event. Please contact your dojo for more information."
+msgid "There are no {userType} tickets available for this event. Please contact your Dojo for more information."
+msgstr "There are no {userType} tickets available for this event. Please contact your Dojo for more information."
