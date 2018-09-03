@@ -4244,5 +4244,5 @@ msgstr "In the next year"
 msgid "Indicate your first session"
 msgstr "Indicate your first session"
 
-msgid "News and Community Forum Updates"
-msgstr "News and Community Forum Updates"
+msgid "News Updates"
+msgstr "News Updates"
