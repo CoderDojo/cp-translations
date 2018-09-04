@@ -4246,3 +4246,9 @@ msgstr "Indicate your first session"
 
 msgid "News Updates"
 msgstr "News Updates"
+
+msgid "See all {badgesAmount} badges"
+msgstr "See all {badgesAmount} badges"
+
+msgid "{name} doesn't have any badges yet. Talk to the organisers of your Dojo to learn how {name} can be rewarded through badges."
+msgstr "{name} doesn't have any badges yet. Talk to the organisers of your Dojo to learn how {name} can be rewarded through badges."
