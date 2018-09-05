@@ -4252,3 +4252,15 @@ msgstr "See all {badgesAmount} badges"
 
 msgid "{name} doesn't have any badges yet. Talk to the organisers of your Dojo to learn how {name} can be rewarded through badges."
 msgstr "{name} doesn't have any badges yet. Talk to the organisers of your Dojo to learn how {name} can be rewarded through badges."
+
+msgid "Before your next event, here are some projects you can try"
+msgstr "Before your next event, here are some projects you can try"
+
+msgid "Here are some projects you can try"
+msgstr "Here are some projects you can try"
+
+msgid "View all projects"
+msgstr "View all projects"
+
+msgid "View all news"
+msgstr "View all news"
