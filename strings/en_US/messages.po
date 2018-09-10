@@ -4262,8 +4262,8 @@ msgstr "Here are some projects you can try"
 msgid "View all projects"
 msgstr "View all projects"
 
-msgid "View all news"
-msgstr "View all news"
+msgid "View more news"
+msgstr "View more news"
 
 msgid "View my children"
 msgstr "View my children"
