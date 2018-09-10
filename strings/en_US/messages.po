@@ -4259,8 +4259,8 @@ msgstr "Before your next event, here are some projects you can try"
 msgid "Here are some projects you can try"
 msgstr "Here are some projects you can try"
 
-msgid "View all projects"
-msgstr "View all projects"
+msgid "View more projects"
+msgstr "View more projects"
 
 msgid "View more news"
 msgstr "View more news"
