@@ -4408,3 +4408,60 @@ msgstr "This Dojo is now inactive"
 
 msgid "Click {openLink}here{closeLink} to look for an active Dojo."
 msgstr "Click {openLink}here{closeLink} to look for an active Dojo."
+
+msgid "Send an email to Dojo members about this event"
+msgstr "Send an email to Dojo members about this event"
+
+msgid "Must be greater than 0"
+msgstr "Must be greater than 0"
+
+msgid "Number of Mentor tickets is required"
+msgstr "Number of Mentor tickets is required"
+
+msgid "Number of Youth tickets is required"
+msgstr "Number of Youth tickets is required"
+
+msgid "Tickets"
+msgstr "Tickets"
+
+msgid "Finish time must be after start time"
+msgstr "Finish time must be after start time"
+
+msgid "Finish time is required"
+msgstr "Finish time is required"
+
+msgid "Start time is required"
+msgstr "Start time is required"
+
+msgid "Date and Time"
+msgstr "Date and Time"
+
+msgid "Description is required"
+msgstr "Description is required"
+
+msgid "This event uses the description"
+msgstr "This event uses the description"
+
+msgid "This event uses the address"
+msgstr "This event uses the address"
+
+msgid "e.g. October Dojo"
+msgstr "e.g. October Dojo"
+
+msgid "Title is required"
+msgstr "Title is required"
+
+msgid "Event Title"
+msgstr "Event Title"
+
+msgid "Edit event:"
+msgstr "Edit event:"
+
+msgid "Create an event for"
+msgstr "Create an event for"
+
+msgid "Ninja Forums"
+msgstr "Ninja Forums"
+
+msgid "Coolest Projects"
+msgstr "Coolest Projects"
