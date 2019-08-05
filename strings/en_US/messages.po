@@ -4439,11 +4439,11 @@ msgstr "Date and Time"
 msgid "Description is required"
 msgstr "Description is required"
 
-msgid "This event uses the description"
-msgstr "This event uses the description"
+msgid "Event description:"
+msgstr "Event description:"
 
-msgid "This event uses the address"
-msgstr "This event uses the address"
+msgid "Event address:"
+msgstr "Event address:"
 
 msgid "e.g. October Dojo"
 msgstr "e.g. October Dojo"
