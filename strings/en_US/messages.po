@@ -4465,3 +4465,6 @@ msgstr "Ninja Forums"
 
 msgid "Coolest Projects"
 msgstr "Coolest Projects"
+
+msgid "Event date is required"
+msgstr "Event date is required"
