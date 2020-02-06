@@ -4468,3 +4468,9 @@ msgstr "Coolest Projects"
 
 msgid "Event date is required"
 msgstr "Event date is required"
+
+msgid "Awaiting approval"
+msgstr "Awaiting approval"
+
+msgid "Total awaiting approval"
+msgstr "Total awaiting approval"
