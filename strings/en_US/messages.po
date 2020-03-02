@@ -4065,6 +4065,12 @@ msgstr "Password is required"
 msgid "There was a problem logging in: {msg}"
 msgstr "There was a problem logging in: {msg}"
 
+msgid "The account for email {msg} is linked to a My Raspberry Pi account."
+msgstr "The account for email {msg} is linked to a My Raspberry Pi account."
+
+msgid "Click here to login through My Raspberry Pi."
+msgstr "Click here to login through My Raspberry Pi."
+
 msgid "Don't have an account?"
 msgstr "Don't have an account?"
 
