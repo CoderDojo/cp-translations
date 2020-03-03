@@ -4065,6 +4065,15 @@ msgstr "Password is required"
 msgid "There was a problem logging in: {msg}"
 msgstr "There was a problem logging in: {msg}"
 
+msgid "The account for email {msg} is linked to a My Raspberry Pi account."
+msgstr "The account for email {msg} is linked to a My Raspberry Pi account."
+
+msgid "Login through My Raspberry Pi."
+msgstr "Login through My Raspberry Pi."
+
+msgid "Use different Coder Dojo account."
+msgstr "Use different Coder Dojo account."
+
 msgid "Don't have an account?"
 msgstr "Don't have an account?"
 
