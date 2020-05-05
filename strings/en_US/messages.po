@@ -4499,8 +4499,8 @@ msgstr "Digital Making at Home"
 msgid "from the Raspberry Pi Foundation."
 msgstr "from the Raspberry Pi Foundation."
 
-msgid "There are still many ways for you to get involved in the Raspberry Pi community! Please"
-msgstr "There are still many ways for you to get involved in the Raspberry Pi community! Please"
+msgid "There are still many ways for you to get involved in the CoderDojo community! Please"
+msgstr "There are still many ways for you to get involved in the CoderDojo community! Please"
 
 msgid "register your details"
 msgstr "register your details"
