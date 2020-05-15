@@ -4507,3 +4507,15 @@ msgstr "register your details"
 
 msgid "with us so we can find out how best to support you."
 msgstr "with us so we can find out how best to support you."
+
+msgid "Account Type"
+msgstr "Account Type"
+
+msgid "To complete your account, please let us know which age category you fit into."
+msgstr "To complete your account, please let us know which age category you fit into."
+
+msgid "Child (under 18 years of age)"
+msgstr "Child (under 18 years of age)"
+
+msgid "Adult (over 18 years of age)"
+msgstr "Adult (over 18 years of age)"
