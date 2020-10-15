@@ -738,6 +738,9 @@ msgstr "Time"
 msgid "Location"
 msgstr "Location"
 
+msgid "Running Online"
+msgstr "Running Online"
+
 msgid "Map"
 msgstr "Map"
 
@@ -890,6 +893,18 @@ msgstr "Private"
 
 msgid "Please only select if your Dojo will be accessible exclusively to attendees from within your organisation, e.g. schools/universities/children of organisation's employees/etc."
 msgstr "Please only select if your Dojo will be accessible exclusively to attendees from within your organisation, e.g. schools/universities/children of organisation's employees/etc."
+
+msgid "Online sessions"
+msgstr "Online sessions"
+
+msgid "This Dojo will run online (partially or completely)"
+msgstr "This Dojo will run online (partially or completely)"
+
+msgid "My club runs online (partially or completely)"
+msgstr "My club runs online (partially or completely)"
+
+msgid "Check this box if your club runs online all or some of the time."
+msgstr "Check this box if your club runs online all or some of the time."
 
 msgid "Supporters Image URL"
 msgstr "Supporters Image URL"
