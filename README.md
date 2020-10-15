@@ -24,6 +24,8 @@ Once these are all updated, merged and deployed, you will need to update the mai
 
 - cp-zen-platform (angular front-end)
 
+**New languages will need to be added to the [languages config](https://github.com/CoderDojo/cp-zen-platform/blob/master/web/config/languages.js) file in cp-zen-platform - the code needs to be the locale, e.g. 'en_US' (this will match the folder added in the installed cp-translations node_module)**
+
 ## Trigger a Build
 
 To trigger a build of the translations without a new commit (e.g. to include new community translations)
