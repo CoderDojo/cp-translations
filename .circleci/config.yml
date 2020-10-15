@@ -73,6 +73,7 @@ jobs:
       - run:
           name: Install Crowdin CLI
           command: |
+            sudo apt-get update
             sudo apt-get install ruby-dev rubygems
             sudo gem install mime-types -v 2.6.2
             sudo gem install rest-client -v 1.8
