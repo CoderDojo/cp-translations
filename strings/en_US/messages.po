@@ -912,8 +912,8 @@ msgstr "Keeping your Dojo safe"
 msgid "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
 msgstr "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
 
-msgid "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation or a senior member of a school."
-msgstr "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation or a senior member of a school."
+msgid "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation."
+msgstr "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation."
 
 msgid "This sponsor will help ensure that your club operates in accordance with our safeguarding policy and that all your volunteers have the appropriate background checks."
 msgstr "This sponsor will help ensure that your club operates in accordance with our safeguarding policy and that all your volunteers have the appropriate background checks."
