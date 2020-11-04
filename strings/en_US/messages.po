@@ -906,6 +906,21 @@ msgstr "My club runs online (partially or completely)"
 msgid "Check this box if your club runs online all or some of the time."
 msgstr "Check this box if your club runs online all or some of the time."
 
+msgid "Keeping your Dojo safe"
+msgstr "Keeping your Dojo safe"
+
+msgid "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
+msgstr "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
+
+msgid "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation or a senior member of a school."
+msgstr "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation or a senior member of a school."
+
+msgid "This sponsor will help ensure that your club operates in accordance with our safeguarding policy and that all your volunteers have the appropriate background checks."
+msgstr "This sponsor will help ensure that your club operates in accordance with our safeguarding policy and that all your volunteers have the appropriate background checks."
+
+msgid "Please fill in the details of your safeguarding sponsor below so that we can contact them."
+msgstr "Please fill in the details of your safeguarding sponsor below so that we can contact them."
+
 msgid "Safeguarding Sponsor's Name"
 msgstr "Safeguarding Sponsor's Name"
 
