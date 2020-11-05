@@ -4505,17 +4505,17 @@ msgstr "Awaiting approval"
 msgid "Total awaiting approval"
 msgstr "Total awaiting approval"
 
-msgid "Thank you for your interest in joining the CoderDojo community!"
-msgstr "Thank you for your interest in joining the CoderDojo community!"
+msgid "Thank you for your interest in CoderDojo!"
+msgstr "Thank you for your interest in CoderDojo!"
 
 msgid "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 msgstr "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 
-msgid "Due to the coronavirus pandemic, there are different restrictions in place across the world."
-msgstr "Due to the coronavirus pandemic, there are different restrictions in place across the world."
+msgid "The coronavirus pandemic continues to impact all our lives, including how Dojos can run."
+msgstr "The coronavirus pandemic continues to impact all our lives, including how Dojos can run."
 
-msgid "Please follow the appropriate public health advice for your country or region before planning in-person club events."
-msgstr "Please follow the appropriate public health advice for your country or region before planning in-person club events."
+msgid "See our resources and guidance on the creative ways Dojos are running."
+msgstr "See our resources and guidance on the creative ways Dojos are running."
 
 msgid "In the meantime, we’re providing exciting opportunities for young people, parents, volunteers, and educators to get creative with tech through"
 msgstr "In the meantime, we’re providing exciting opportunities for young people, parents, volunteers, and educators to get creative with tech through"
@@ -4540,6 +4540,12 @@ msgstr "If you are ready to hold in-person club events soon, please"
 
 msgid "register your details"
 msgstr "register your details"
+
+msgid "See"
+msgstr "See"
+
+msgid "our resources and guidance on the creative ways Dojos are running."
+msgstr "our resources and guidance on the creative ways Dojos are running."
 
 msgid "and we will be in touch."
 msgstr "and we will be in touch."
