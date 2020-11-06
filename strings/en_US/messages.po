@@ -4511,12 +4511,6 @@ msgstr "Thank you for your interest in CoderDojo!"
 msgid "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 msgstr "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 
-msgid "The coronavirus pandemic continues to impact all our lives, including how Dojos can run."
-msgstr "The coronavirus pandemic continues to impact all our lives, including how Dojos can run."
-
-msgid "See our resources and guidance on the creative ways Dojos are running."
-msgstr "See our resources and guidance on the creative ways Dojos are running."
-
 msgid "In the meantime, we’re providing exciting opportunities for young people, parents, volunteers, and educators to get creative with tech through"
 msgstr "In the meantime, we’re providing exciting opportunities for young people, parents, volunteers, and educators to get creative with tech through"
 
