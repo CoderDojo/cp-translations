@@ -922,7 +922,7 @@ msgid "safeguarding policy"
 msgstr "safeguarding policy"
 
 msgid "and that all your volunteers have the appropriate background checks."
-msgid "and that all your volunteers have the appropriate background checks."
+msgstr "and that all your volunteers have the appropriate background checks."
 
 msgid "Please fill in the details of your safeguarding sponsor below so that we can contact them."
 msgstr "Please fill in the details of your safeguarding sponsor below so that we can contact them."
