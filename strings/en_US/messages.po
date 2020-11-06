@@ -4508,6 +4508,8 @@ msgstr "Total awaiting approval"
 msgid "Thank you for your interest in CoderDojo!"
 msgstr "Thank you for your interest in CoderDojo!"
 
+msgid "The coronavirus pandemic continues to impact all our lives, including how Dojos can run."
+msgstr "The coronavirus pandemic continues to impact all our lives, including how Dojos can run."
 msgid "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 msgstr "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 
@@ -4558,4 +4560,3 @@ msgstr "Child (under 18 years of age)"
 
 msgid "Adult (over 18 years of age)"
 msgstr "Adult (over 18 years of age)"
-
