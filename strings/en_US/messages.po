@@ -912,11 +912,23 @@ msgstr "Keeping your Dojo safe"
 msgid "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
 msgstr "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
 
+msgid "To ensure the safety of young people at Dojos, we require a second adult to act as a safeguarding sponsor for your Dojo."
+msgstr "To ensure the safety of young people at Dojos, we require a second adult to act as a safeguarding sponsor for your Dojo."
+
 msgid "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation."
 msgstr "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation."
 
+msgid "An appropriate sponsor would be a person holding a manager-level position within a school, library, corporate or non-profit organisation."
+msgstr "An appropriate sponsor would be a person holding a manager-level position within a school, library, corporate or non-profit organisation."
+
+msgid "The Dojo sponsor and the Dojo champion cannot be the same person."
+msgstr "The Dojo sponsor and the Dojo champion cannot be the same person."
+
 msgid "This sponsor will help ensure that your club operates in accordance with our"
 msgstr "This sponsor will help ensure that your club operates in accordance with our"
+
+msgid "The sponsor will help ensure that your Dojo operates in accordance with our"
+msgstr "The sponsor will help ensure that your Dojo operates in accordance with our"
 
 msgid "safeguarding policy"
 msgstr "safeguarding policy"
