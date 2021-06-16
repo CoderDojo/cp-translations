@@ -4546,6 +4546,9 @@ msgstr "The coronavirus pandemic continues to impact all our lives, including ho
 msgid "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 msgstr "Due to the coronavirus pandemic, we have paused the Dojo verification process."
 
+msgid "If you have any issues or queries about your application, please contact our support team at"
+msgstr "If you have any issues or queries about your application, please contact our support team at"
+
 msgid "In the meantime, we’re providing exciting opportunities for young people, parents, volunteers, and educators to get creative with tech through"
 msgstr "In the meantime, we’re providing exciting opportunities for young people, parents, volunteers, and educators to get creative with tech through"
 
