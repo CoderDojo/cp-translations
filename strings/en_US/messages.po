@@ -3720,6 +3720,9 @@ msgstr "Third"
 msgid "Fourth"
 msgstr "Fourth"
 
+msgid "Please complete all of the required fields"
+msgstr "Please complete all of the required fields"
+
 msgid "Please answer the following questions correctly so that our community team can verify all new Champions are real people."
 msgstr "Please answer the following questions correctly so that our community team can verify all new Champions are real people."
 
