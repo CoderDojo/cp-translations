@@ -909,14 +909,20 @@ msgstr "Check this box if your club runs online all or some of the time."
 msgid "Keeping your Dojo safe"
 msgstr "Keeping your Dojo safe"
 
-msgid "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
-msgstr "To ensure the safety of young people at Dojos, we require the email address of a safeguarding sponsor."
+msgid "To ensure the safety of young people at Dojos,"
+msgstr "To ensure the safety of young people at Dojos,"
 
-msgid "To ensure the safety of young people at Dojos, we require a second adult to act as a safeguarding sponsor for your Dojo."
-msgstr "To ensure the safety of young people at Dojos, we require a second adult to act as a safeguarding sponsor for your Dojo."
+msgid "we require"
+msgstr "we require"
 
-msgid "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation."
-msgstr "An appropriate sponsor would be a person holding a manager-level position within a corporate or non-profit organisation."
+msgid "a second adult to act as a"
+msgstr "a second adult to act as a"
+
+msgid "safeguarding sponsor"
+msgstr "safeguarding sponsor"
+
+msgid "for your Dojo."
+msgstr "for your Dojo."
 
 msgid "An appropriate sponsor would be a person holding a manager-level position within a school, library, corporate or non-profit organisation."
 msgstr "An appropriate sponsor would be a person holding a manager-level position within a school, library, corporate or non-profit organisation."
