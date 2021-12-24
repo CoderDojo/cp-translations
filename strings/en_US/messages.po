@@ -3990,6 +3990,9 @@ msgstr "Congratulations! Your Dojo application is being reviewed by a member of 
 msgid "We will respond to you within 48 hours, so hang tight while we check the information you have submitted."
 msgstr "We will respond to you within 48 hours, so hang tight while we check the information you have submitted."
 
+msgid "We will be in touch with the next steps and look forward to verifying your new Dojo."
+msgstr "We will be in touch with the next steps and look forward to verifying your new Dojo."
+
 msgid "Something went wrong while submitting your application, please contact support"
 msgstr "Something went wrong while submitting your application, please contact support"
 
