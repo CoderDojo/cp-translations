@@ -3993,8 +3993,8 @@ msgstr "We will respond to you within 48 hours, so hang tight while we check the
 msgid "Keeping young people safe in your Dojo is vital. You should complete our <a target=\"_blank\" href=\"https://projects.raspberrypi.org/en/projects/safeguarding-module\">safeguarding e-learning module</a> at least once every three years. It explains how safeguarding principles are applied in Dojos. Make sure you log in before starting to receive a certificate on completion of the thirty-minute training."
 msgstr "Keeping young people safe in your Dojo is vital. You should complete our <a target=\"_blank\" href=\"https://projects.raspberrypi.org/en/projects/safeguarding-module\">safeguarding e-learning module</a> at least once every three years. It explains how safeguarding principles are applied in Dojos. Make sure you log in before starting to receive a certificate on completion of the thirty-minute training."
 
-msgid "We will be in touch with the next steps of your application and further information about the safeguarding module if you haven’t taken it recently."
-msgstr "We will be in touch with the next steps of your application and further information about the safeguarding module if you haven’t taken it recently."
+msgid "We will be in touch with the next steps of your application and further information about the safeguarding module if you haven't taken it recently."
+msgstr "We will be in touch with the next steps of your application and further information about the safeguarding module if you haven't taken it recently."
 
 msgid "We will be in touch with the next steps and look forward to verifying your new Dojo."
 msgstr "We will be in touch with the next steps and look forward to verifying your new Dojo."
