@@ -3427,6 +3427,9 @@ msgstr "{{ numAttendees }} Attendees"
 msgid "{{ numMentors }} Mentors"
 msgstr "{{ numMentors }} Mentors"
 
+msgid "CoderDojo Zen Account Lockout"
+msgstr "CoderDojo Zen Account Lockout"
+
 msgid "Help Center"
 msgstr "Help Center"
 
